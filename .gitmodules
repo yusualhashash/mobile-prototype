@@ -1,0 +1,3 @@
+[submodule "ayasofya/packages/mobile-ui"]
+	path = ayasofya/packages/mobile-ui
+	url = https://github.com/yusualhashash/mobile-ui.git
